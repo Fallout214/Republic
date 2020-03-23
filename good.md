@@ -2,4 +2,3 @@
 
 msg= "Hello word!"
 打印（味精） 
-asdfghjkkkl

@@ -1,0 +1,1 @@
+![CG](C:\Users\dell\Desktop\lingminggongzi\ingminggongzi\CG.png)

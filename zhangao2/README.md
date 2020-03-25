@@ -1,2 +1,0 @@
-# Republic
-Everything is OK.
